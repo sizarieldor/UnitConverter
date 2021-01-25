@@ -1,2 +1,2 @@
 # UnitConverter
-simple unit converter
+A simple unit converter written in Java Swing
